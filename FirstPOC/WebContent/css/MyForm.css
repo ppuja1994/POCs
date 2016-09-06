@@ -1,0 +1,8 @@
+.header{position: absolute;height: 40%;width: 100%;margin: 10px}
+.body{position: absolute;height: 50%;width: 100%;top: 50%;margin: 10px}
+.bodyleft{position: absolute; height: 100%;width: 80%;right: 20%;margin: 10px}
+.bodyright{position: absolute;height: 100%;width: 20%;left: 80%;color: aqua;margin: 10px}
+.leftheader{position: absolute;height: 100%;width: 20%; right: 80%;margin: 10px}
+.midheader{position: absolute;height: 100%;width: 60%;left: 20%;right: 20%;margin: 10px}
+.lastheader{position: absolute;height: 100%;width: 20%;left: 80%;margin: 10px}
+.marqueemanu{position: absolute;height: 10%;width: 100%;top: 40%;bottom: 50%;color: blue;margin: 10px}

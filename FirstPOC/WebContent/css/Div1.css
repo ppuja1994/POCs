@@ -1,0 +1,5 @@
+.header{position: absolute;height: 40%;width: 100%;margin: 30px}
+.body{position: absolute;height: 50%;width: 100%;top: 50%;margin: 30px}
+.bodyleft{position: absolute; height: 100%; width: 60%; right: 40%;margin: 30px}
+.bodyright{position: absolute;height: 100%;width: 40%;left: 60%;margin: 30px}
+.marqueemanu{position: absolute;height: 10%; width: 100%;top: 40%;margin: 30px}
