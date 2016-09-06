@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class SumWord {
 
+	
+	
+	
 	public static void main(String[] args) {
 		boolean bln = false;
 		int sum = 0;
