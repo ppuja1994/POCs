@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class SumWord {
 
 	
-	
-	
 	public static void main(String[] args) {
 		boolean bln = false;
 		int sum = 0;
@@ -21,7 +19,7 @@ public class SumWord {
 	}
 
 	private static int charAt(int i) {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
